@@ -33,16 +33,14 @@ const totalPrice = productPrice * totalSelectedProducts;
 
 console.log(totalPrice); // => 60
 ```
+
 ```js
 const fruits = ['apple', 'orange', 'banana']
 const itemIndex = 2;
 
 console.log(letterArray[itemIndex]); // => 'banana'
-
-const totalPrice = productPrice * totalSelectedProducts;
-
-console.log(totalPrice); // => 60
 ```
+
 Its authorized to use operator addition (**+**) between number type and string type to do **interpolation**.
 
 ```js
