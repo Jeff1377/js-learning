@@ -61,3 +61,28 @@ console.log(myConstWithObject); // => {film: 'Gosth', animal: 'cat'}
 https://www.freecodecamp.org/news/var-let-and-const-whats-the-difference/
 
 ---
+
+
+## other way to store value
+
+### In object
+
+```js
+const user = {firstname: 'Gandalf', lastname: 'Leblanc', age: 1432};
+```
+
+### In array
+
+# Possible types of values
+
+* **number** (integer, int)
+* **string**
+* **boolean** (bool)
+* **undefined**
+* **null**
+* **NaN**
+* **function** (method)
+* **array** (iterator, list)
+* **object** (hash)
+
+---
