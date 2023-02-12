@@ -83,9 +83,9 @@ const fruits = ['banana', 'apple'];
 * **[string](https://github.com/Jeff1377/js-learning/tree/main/js-types/string.md)**
 * **[boolean](https://github.com/Jeff1377/js-learning/tree/main/js-types/boolean.md)** (bool)
 * **[undefined](https://github.com/Jeff1377/js-learning/tree/main/js-types/undefined.md)**
-* **null**
-* **NaN**
-* **function** (method)
+* **[null](https://github.com/Jeff1377/js-learning/tree/main/js-types/null.md)**
+* **nullN**
+* **functionnull(method)
 * **array** (iterator, list)
 * **object** (hash)
 
