@@ -82,7 +82,7 @@ const fruits = ['banana', 'apple'];
 * **[number](https://github.com/Jeff1377/js-learning/tree/main/js-types/number.md)** (integer, int)
 * **[string](https://github.com/Jeff1377/js-learning/tree/main/js-types/string.md)**
 * **[boolean](https://github.com/Jeff1377/js-learning/tree/main/js-types/boolean.md)** (bool)
-* **undefined**
+* **[undefined](https://github.com/Jeff1377/js-learning/tree/main/js-types/undefined.md)**
 * **null**
 * **NaN**
 * **function** (method)
