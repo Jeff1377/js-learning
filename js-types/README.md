@@ -80,7 +80,7 @@ const fruits = ['banana', 'apple'];
 # Possible types of values
 
 * **[number](https://github.com/Jeff1377/js-learning/tree/main/js-types/number.md)** (integer, int)
-* **string**
+* **[string](https://github.com/Jeff1377/js-learning/tree/main/js-types/string.md)**
 * **boolean** (bool)
 * **undefined**
 * **null**
