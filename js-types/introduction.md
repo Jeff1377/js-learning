@@ -73,6 +73,10 @@ const user = {firstname: 'Gandalf', lastname: 'Leblanc', age: 1432};
 
 ### In array
 
+```js
+const fruits = ['banana', 'apple'];
+```
+
 # Possible types of values
 
 * **number** (integer, int)
