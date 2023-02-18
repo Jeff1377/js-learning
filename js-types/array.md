@@ -85,10 +85,10 @@ Not to be confused: Properties and methods are not included in the items list
 ```js
 const items = ['A', 'B', 'C'];
 
-items.myProperty = 'I am property';
+items.myProperty = 'I am a property';
 
-console.log(items.myProperty);    // => 'I am property'
-console.log(items['myProperty']); // => 'I am property'
+console.log(items.myProperty);    // => 'I am a property'
+console.log(items['myProperty']); // => 'I am a property'
 
 console.log(items); // => Array(3) [ "A", "B", "C" ]
 ```
@@ -96,10 +96,10 @@ console.log(items); // => Array(3) [ "A", "B", "C" ]
 ### Method example
 
 ```js
-items['myMethod'] = () => 'I am an method';
+items['myMethod'] = () => 'I am a method';
 
-console.log( items.myMethod() );    // => 'I am an ugly method'
-console.log( items['myMethod']() ); // => 'I am an ugly method'
+console.log( items.myMethod() );    // => 'I am a method'
+console.log( items['myMethod']() ); // => 'I am a method'
 
 console.log(items); // => Array(3) [ "A", "B", "C" ]
 ```
