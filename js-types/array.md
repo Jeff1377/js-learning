@@ -87,8 +87,8 @@ const items = ['A', 'B', 'C'];
 
 items.myProperty = 'I am property';
 
-console.log(items.myProperty);    // => 'I property'
-console.log(items['myProperty']); // => 'I property'
+console.log(items.myProperty);    // => 'I am property'
+console.log(items['myProperty']); // => 'I am property'
 
 console.log(items); // => Array(3) [ "A", "B", "C" ]
 ```
