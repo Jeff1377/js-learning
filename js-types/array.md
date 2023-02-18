@@ -44,7 +44,7 @@ const items = ['A', 'B', 'C'];
 
 items.lenght // => 3
 
-typeof(item) // => 'object'
+typeof(items) // => 'object'
 ```
 
 ### Method example
@@ -73,7 +73,7 @@ console.log(items[2]) // => "C"
 
 console.log(items['2']) // => "C"
 
-console.log(arr.0); // A syntax error
+console.log(items.0); // A syntax error
 ```
 
 We can add properties or methods in an **Array**.
@@ -85,7 +85,7 @@ Not to be confused: Properties and methods are not included in the items list
 ```js
 const items = ['A', 'B', 'C'];
 
-items.yProperty = 'I am property';
+items.myProperty = 'I am property';
 
 console.log(items.myProperty);    // => 'I property'
 console.log(items['yPropmyPropertyerty']); // => 'I property'
