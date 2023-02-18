@@ -1,4 +1,4 @@
-## Null
+# Null
 
 The null value is not undefined, not false, not empty.
 

@@ -1,4 +1,5 @@
-## Number
+# Number
+
 In **JS** a **number** can be integer, short, long, float...
 Isn't case for some other languages
 
@@ -48,7 +49,7 @@ const minimumAgeAuthorized = 18;
 
 const minAgeText = 'You must be ' + minimumAgeAuthorized + ' to enter';
 
-console.log(minAgeText); // => 'you must be 18 to enter'
+console.log(minAgeText); // => 'You must be 18 to enter'
 ```
 
 But other operation will respond **NaN**

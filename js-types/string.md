@@ -1,4 +1,4 @@
-## String
+# String
 
 To store any kind of text we use string type.
 

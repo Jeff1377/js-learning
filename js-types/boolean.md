@@ -1,4 +1,4 @@
-## Boolean
+# Boolean
 
 Boolean type value is only **true** or **false**.
 We use it to store information that will represent an enable or disable state.

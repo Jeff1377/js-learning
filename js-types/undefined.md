@@ -1,6 +1,6 @@
-## Undefined
+# Undefined
 
-The "non value" **undefined** is given to a variable or attribute not set yet.
+The type value **undefined** is given to a variable or attribute not set yet.
 
 Declare variable without setting value (**=**), his value will be **undefined**.
 

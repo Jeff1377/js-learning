@@ -3,13 +3,16 @@
 The **types** give us information of our values nature.
 
 ## Store values with variable
+
 3 ways to create / instance / declare a **JS** variable
 
 ---
 ### Historic way (Before the advent of ES6)
+
 * **var** => Nice and innocent way to declare a variable
 
 ### Modern ways
+
 * **let** => value can change
 * **const** => value can't change
 
@@ -85,7 +88,7 @@ const fruits = ['banana', 'apple'];
 * **[undefined](https://github.com/Jeff1377/js-learning/tree/main/js-types/undefined.md)**
 * **[null](https://github.com/Jeff1377/js-learning/tree/main/js-types/null.md)**
 * **[function](https://github.com/Jeff1377/js-learning/tree/main/js-types/function.md)**(method)
-* **array** (iterator, list)
-* **object** (hash)
+* **[object](https://github.com/Jeff1377/js-learning/tree/main/js-types/object.md)**(hash)
+* **[array](https://github.com/Jeff1377/js-learning/tree/main/js-types/array.md)**(list, iterator)
 
 ---

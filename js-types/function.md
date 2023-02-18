@@ -1,4 +1,4 @@
-## Function
+# Function
 
 Like other type of values, a **function** can be store in a **variable**, in **object property**, in an **array item**, they will got type **function**
 
